@@ -1,0 +1,8 @@
+[submodule "Website"]
+	path = Website
+	url = git@github.com:StuyCCC/stuyccc.github.io.git
+	branch = master
+[submodule "stuyccc.github.io"]
+	path = stuyccc.github.io
+	url = git@github.com:StuyCCC/stuyccc.github.io.git
+	branch = master
